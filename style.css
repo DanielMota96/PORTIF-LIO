@@ -1,0 +1,20 @@
+/* Custom CSS */
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+}
+
+#codeEditor {
+    font-family: monospace;
+    background-color: #f1f1f1;
+}
+
+#output {
+    font-family: monospace;
+    min-height: 100px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
